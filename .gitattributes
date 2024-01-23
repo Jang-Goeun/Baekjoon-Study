@@ -1,2 +1,2 @@
 *.java linguist-detectable=true
-*.c linguist-detectable=false
+*.c linguist-detectable=true
